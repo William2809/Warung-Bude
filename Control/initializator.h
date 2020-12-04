@@ -1,0 +1,13 @@
+void menu();
+void addDish();
+void removeDish();
+void addCustomer();
+void cls();
+void insert();
+void searchCustomer();
+void viewWarteg();
+void orderDish();
+void orderDetail();
+void payment();
+void searchIndex1();
+int counterOrder = 0;
